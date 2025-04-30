@@ -106,3 +106,4 @@ plt.xlabel("Average Pollution")
 plt.ylabel("State")
 plt.tight_layout()
 plt.show()
+#exited program
