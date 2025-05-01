@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+#imp
 
 # Load dataset
 df = pd.read_csv(r"C:\Users\charan tej\Desktop\python project\air_quality (2).csv")
