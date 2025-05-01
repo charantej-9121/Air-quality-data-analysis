@@ -8,7 +8,7 @@ import seaborn as sns
 # Load dataset
 df = pd.read_csv(r"C:\Users\charan tej\Desktop\python project\air_quality (2).csv")
 
-# Convert timestamp to datetime
+# Convert timestamp to datetime.
 df['last_update'] = pd.to_datetime(df['last_update'])
 
 # Objective 1: Distribution of pollutants across states
